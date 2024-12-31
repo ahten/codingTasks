@@ -1,5 +1,8 @@
 Task 1 - Hello World
 
+Objective
++ Understanding the how to take user input, then process the input value and print on screen 
+
 Task Details
 + (1) Create a new Python file in your folder for this task, and call it
 hello_world.py.
@@ -19,6 +22,9 @@ at the end.
 -------
 
 Task 2 - Value Conversion 
+
+Objective
++ Understanding how to convert the number to different value type ( integer , float , string) 
 
 As in the previous practical task, please first provide pseudocode as
 comments in your Python file, outlining how you will solve this problem.
