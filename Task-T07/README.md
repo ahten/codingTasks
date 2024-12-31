@@ -1,7 +1,7 @@
 Task 1 - Alternative
 
 Objective: 
-+ Learn how to convert the character to upper case and lower case. 
++ Learn how to convert the character to upper case and lower case. (Strings, Lists, Dictionaries)
 
 Task Details: 
 +  Create a file called alternative.py.
@@ -17,7 +17,7 @@ lowercase and uppercase.
 Task 2 - Cafe
 
 Objective: 
-+ Learn how to handle Array. Store, extract, update value from a array. 
++ Learn how to handle Array. Store, extract, update value from a array. (Strings, Lists, Dictionaries)
 
 Task Details: 
 + ● Imagine you are running a café. Create a new Python file in your folder
