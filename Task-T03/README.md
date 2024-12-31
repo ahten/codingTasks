@@ -1,7 +1,7 @@
 Task 1 - Award
 
 Objective:
-+ Learn how to us if...else 
++ Learn how to us if...else  (Conditional Statement)
 
 Task Details:
 + Create a new Python file in this folder called award.py.
@@ -19,7 +19,7 @@ Display the award that the participant will receive based on the following
 Task 2 - Manipulation 
 
 Objective : 
-+ Learn how to operate the string value , e.g. replace value , extract characher from a word / sentenances. 
++ Learn how to operate the string value , e.g. replace value , extract characher from a word / sentenances.  (Data Type)
 
 Task Details:
 + Create a new Python file for this task and call it manipulation.py. 
