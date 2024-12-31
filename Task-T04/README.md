@@ -1,7 +1,7 @@
 Task 1 - Pattern
 
 Objective: 
-+ Learn how to use for .. in (looping) 
++ Learn how to use for .. in (looping , Iteration) 
 
 Task Details:
 
@@ -16,7 +16,7 @@ loop if you wish to challenge yourself):
 Task 2 - While
 
 Objective:
-+ Learn how to use while (looping)
++ Learn how to use while (looping,Iteration)
 
 Task Details:
 + Create a file called while.py.
