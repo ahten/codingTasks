@@ -2,6 +2,8 @@ Task 1 - Holiday
 
 Objective:
 + Learn how to create a method/function; it reduce the duplicate code, we can reuse the code by calling the method. 
++ def
++ Using Array to store a group of value.
 
 Task Details:
 + 1. Create a Python file called holiday.py. 
